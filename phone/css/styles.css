@@ -1,0 +1,73 @@
+body{
+  text-align: center;
+  color: grey;
+  user-select: none;
+}
+p{
+  font-size: 1.1rem;
+  font-weight: normal;
+}
+a{
+  text-decoration: none;
+}
+
+h2{
+  color: #000;
+  font-size: 3rem;
+}
+.navbar{
+  padding: 0 inherit;
+  opacity: 0.95;
+}
+.navbar-brand{
+  color: #8f8f8f;
+}
+.nav-item{
+  padding: 0 10px;
+}
+.nav-link{
+  color: #8f8f8f;
+}
+
+.offer_div{
+  padding: 0 25%;
+  margin-bottom: 0;
+}
+.title{
+  background-color: #000;
+
+}
+.first-heading{
+  padding-top: 5%;
+  font-size: 3rem;
+  color: white;
+}
+.third-heading{
+  color: white;
+}
+.iphone_14{
+  background-color: #f5f5f7;
+}
+
+.third-heading{
+  color: #000;
+}
+.iphone_14{
+  padding-top: 7%;
+}
+.apple_Watch{
+  background-color: #000;
+  padding-top: 5%
+}
+.fa-brands{
+  color: white;
+}
+.fa_brands:hover{
+  color: inherit;
+}
+.free{
+  background-color: #000;
+}
+.red{
+  color: #ad1a1a;
+}
