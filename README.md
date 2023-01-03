@@ -1,2 +1,1 @@
-# ifone
-Clone website of Apple.com  
+https://jatsh1804.github.io/ifone/
